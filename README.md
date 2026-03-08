@@ -2,7 +2,7 @@
 
 
 # 1. Pendahuluan
-Operasi _Roux-en-Y Gastric Bypass_ (RYGB) mtidak hanya bertujuan untuk penurunan berat badan, tetapi juga dikenal efektif dalam memperbaiki kontrol glikemik pada pasien Diabetes Mellitus Tipe 2 (DMT2). Meskipun penurunan berat badan berperan penting, mekanisme molekuler yang mendasari perbaikan kontrol glikemik segera setelah operasi masih menjadi subjek penelitian yang intensif. Proyek ini bertujuan untuk mengidentifikasi profil ekspresi gen yang berubah secara signifikan (_Differentially Expressed Genes_) serta memetakan perubahan jalur metabolisme dan pensinyalan seluler pasca-prosedur tersebut.
+Operasi _Roux-en-Y Gastric Bypass_ (RYGB) tidak hanya bertujuan untuk penurunan berat badan, tetapi juga dikenal efektif dalam memperbaiki kontrol glikemik pada pasien Diabetes Mellitus Tipe 2 (DMT2). Meskipun penurunan berat badan berperan penting, mekanisme molekuler yang mendasari perbaikan kontrol glikemik segera setelah operasi masih menjadi subjek penelitian yang intensif. Proyek ini bertujuan untuk mengidentifikasi profil ekspresi gen yang berubah secara signifikan (_Differentially Expressed Genes_) serta memetakan perubahan jalur metabolisme dan pensinyalan seluler pasca-prosedur tersebut.
 
 # 2. Metode
 Analisis ini dilakukan menggunakan dataset publik GSE281144 yang diperoleh dari database NCBI Gene Expression Omnibus (GEO). Data ekspresi gen ini dihasilkan menggunakan teknologi microarray pada organisme _Homo sapiens_. 
