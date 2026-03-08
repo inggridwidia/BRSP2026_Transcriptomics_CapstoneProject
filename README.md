@@ -51,7 +51,7 @@ Sejalan dengan hasil analisis volcano plot yang menunjukkan pergeseran transkrip
 ![GO_UpRegulated.Genes.png](Hasil_Gambar/GO_UpRegulated.Genes.png)
 ![GO_DownRegulated.Genes.png](Hasil_Gambar/GO_DownRegulated.Genes.png)
 
-Analisis Gene Ontology (GO) menunjukkan bahwa gen-gen yang terdampak didominasi oleh proses imunologis dan regulasi homeostasis metabolik. 
+Analisis Gene Ontology (GO) mengindikasikan bahwa gen-gen yang mengalami perubahan ekspresi terutama terlibat dalam proses imunologis serta regulasi homeostasis metabolik. 
 
 ![KEGG_Pathway.png](Hasil_Gambar/KEGG_Pathway.png)
 
