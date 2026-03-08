@@ -1,4 +1,4 @@
-# Analisis Transkriptomik Pasca-Gastric Bypass pada Pasien Diabetes Tipe 2
+# Analisis Transkriptomik Pasca Roux-en-Y Gastric Bypass pada Pasien Diabetes Mellitus Tipe 2
 
 
 # 1. Pendahuluan
